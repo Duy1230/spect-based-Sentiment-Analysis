@@ -1,1 +1,1 @@
-# spect-based-Sentiment-Analysis
+# Aspect-based-Sentiment-Analysis
